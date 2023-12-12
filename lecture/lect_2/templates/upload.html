@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <title>Форма для загрузки файла</title>
+</head>
+<body>
+<h1>Загружаем новый файл на сервер</h1>
+
+<form method=post enctype=multipart/form-data>
+    <!--        Параметр enctype=multipart/form-data создаёт форму для загрузки данных-->
+    <input type=file name=file>
+    <!--        Первая строка формы создаёт кнопку для прикрепления файла с доступом по имени file-->
+    <input type=submit value=Загрузить>
+    <!--        Вторая — отправляет файл на сервер-->
+</form>
+
+</body>
+</html>
