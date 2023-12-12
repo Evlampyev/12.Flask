@@ -1,0 +1,24 @@
+table {
+    width: 300px;
+    border: 1px solid #000;
+    margin: auto;
+    }
+
+th {
+    color: green;
+    border: 1px solid #080;
+    }
+
+td {
+    color: grey;
+    border: 1px solid #080;
+    }
+p {
+    align: center;
+    font-size: 18px;
+}
+
+h1 {
+  color: red;
+  align: center;
+}

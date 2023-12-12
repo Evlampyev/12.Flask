@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    {% block title %}
+    <title>Это из шаблона</title>
+    {% endblock %}
+
+</head>
+<header>
+    <h4>Меню</h4>
+
+    <a href="/"><p>Главная</p></a>
+    <a href="/contacts"><p>Контакты</p></a>
+    <a href="/about"><p>О нас</p></a>
+
+</header>
+<body>
+
+{% block content %}
+Страница не заполнена
+{% endblock %}
+
+
+</body>
+<footer>
+    <hr>
+    <p>Все права запрещены</p>
+</footer>
+</html>

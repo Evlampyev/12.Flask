@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/lecture/lect_1/jinja/templates" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/lecture/lect_1/templates" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/seminars/sem_1/templates" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
     <orderEntry type="inheritedJdk" />
