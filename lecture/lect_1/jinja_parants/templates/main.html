@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}
+{{ super() }} - {{ title }}
+{% endblock %}
+
+{% block content %}
+<div class="row">
+    <h1 class="col-12 col-md-6 display-2">Привет, меня зовут
+        Алексей</h1>
+    <img src="/static/image/foto.jpg" class="col-12 col-md-6 img-fluid rounded-circle" alt="Моё фото">
+</div>
+{% endblock %}

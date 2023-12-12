@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/12.Flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/app_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/app_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/app_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/app_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/app_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/app_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/static/image/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/templates/index_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/templates/poems.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja/templates/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/static/image/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/templates/data.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/pr_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/pr_1/app_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/pr_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/pr_2/app_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/image/foto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.bundle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.bundle.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.bundle.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.esm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.esm.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.esm.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.esm.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/static/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/Лекция 1. Методичка.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_1/Лекция 1. Презентация.pdf" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2ZQTTsAKnLVZgj9091dd7ewKDuU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.app_01.executor": "Run",
+    "Python.app_02.executor": "Run",
+    "Python.app_03.executor": "Run",
+    "Python.app_04.executor": "Run",
+    "Python.app_05.executor": "Run",
+    "Python.app_06.executor": "Run",
+    "Python.app_07.executor": "Run",
+    "Python.app_08.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.wsgi.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/GeekBrains/II_quarter/12.Flask/lecture/lect_1/jinja/static"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja\static" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\static" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja_parants" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\pr_1" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="app_02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/pr_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/pr_2/app_02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja/app_06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja/app_07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja/app_08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja_parants" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja_parants/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.app_08" />
+        <item itemvalue="Python.app_07" />
+        <item itemvalue="Python.app_06" />
+        <item itemvalue="Python.app_02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="" />
+      <created>1702353313291</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702353313291</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
