@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="" />
+    <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/static/image/Бороды.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/static/image/Головные уборы.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/static/image/Мешки.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/templates/goods.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_1/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_1/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_1/task_7_9.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_1/task_7_9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_1/templates/market.html" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_1/templates/market.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_1/templates/news.html" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_1/templates/news.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -53,11 +63,13 @@
     &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
     &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7_9.executor&quot;: &quot;Run&quot;,
     &quot;Python.wsgi.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GeekBrains/II_quarter/12.Flask/lecture/lect_1/jinja/static&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/GeekBrains/II_quarter/12.Flask/lecture/lect_1/jinja/static&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -76,7 +88,7 @@
       <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\pr_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.app_06">
+  <component name="RunManager">
     <configuration name="app_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
@@ -200,7 +212,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
       </set>
     </attachedChunks>
   </component>

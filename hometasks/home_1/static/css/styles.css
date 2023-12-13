@@ -6,7 +6,10 @@ H2 {
     text-align: center;
     color: green;
 }
-
+H3 {
+    text-align: center;
+    color: blue;
+}
 .menu {
     margin: auto;
     width: 20%;
@@ -26,12 +29,26 @@ H2 {
     width: 40%;
     border: 1px solid ;
     background-color: #6B8E23;
-    text-align: center;
+    text-align: justify ;
 }
 .news-td-title {
     font-style: italic;
+}
+.news-td-data {
+    text-align: justify;
 }
 body {
     width: 60%;
     margin: auto;
 }
+
+img {
+    max-width: 32%;
+    border-radius: 10px/20px;
+    border: 2px solid;
+}
+
+.market-menu {
+    width: 30%;
+    text-align: center;
+    }
