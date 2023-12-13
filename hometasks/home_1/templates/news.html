@@ -1,0 +1,25 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Последние новости
+{% endblock %}
+
+
+{% block content%}
+<table class="news">
+    {% for new in news %}
+
+    <tr>
+        <td class="news-td">{{ new.day }}</td>
+    </tr>
+    <tr>
+        <td class="news-td-title">{{ new.title }}</td>
+    </tr>
+    <tr>
+        <td>{{ new.data }}</td>
+    </tr>
+
+    {% endfor %}
+</table>
+{% endblock %}
+

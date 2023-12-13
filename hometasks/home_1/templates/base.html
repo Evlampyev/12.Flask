@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+    <title>
+        {% block title %}
+        Базовый шаблон
+        {% endblock %}
+    </title>
+</head>
+<header>
+    <H2>Главный новостной транслятор</H2>
+    <table class="menu">
+        <tr>
+            <td class="menu-td"><a href="/">Главная</a></td>
+            <td class="menu-td"><a href="{{ url_for ('news') }}">Новости</a></td>
+            <td class="menu-td"><a href="{{ url_for ('market') }}">Наш магазин</a></td>
+
+
+        </tr>
+    </table>
+    <hr>
+</header>
+<body>
+{% block content %}
+<p>Нет материала</p>
+{% endblock %}
+</body>
+
+<footer>
+    <hr>
+    <H4>Все права запрещены ©️</H4>
+
+</footer>
+</html>

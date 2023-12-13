@@ -5,31 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/ReadMe.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/templates/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/templates/index_4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/templates/upload.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/Лекция 2. Методичка.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_2/Лекция 2. Презентация.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/templates/task_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/templates/task_1/name.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/templates/task_2/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/templates/task_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/Семинар 2. Презентация.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/task_7_9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/templates/market.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_1/templates/news.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/12.Flask.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/12.Flask.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/lect_1/jinja_parants/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/Семинар 1. Презентация.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_1/Семинар 1. Презентация.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_1/task_7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_1/task_9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -79,11 +65,14 @@
     "Python.task_3.executor": "Run",
     "Python.task_5.executor": "Run",
     "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_7_9.executor": "Run",
     "Python.wsgi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/GeekBrains/II_quarter/12.Flask/lecture/lect_1/jinja/static"
+    "last_opened_file_path": "C:/GeekBrains/II_quarter/12.Flask/lecture/lect_1/jinja/static",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -213,10 +202,56 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_1/task_2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task_7_9" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hometasks/home_1" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\Aevlampev\PycharmProjects\12.Flask\hometasks\home_1\task_7_9.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.main" />
         <item itemvalue="Python.task_1" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.app_08" />
         <item itemvalue="Python.app_07" />
         <item itemvalue="Python.app_06" />
@@ -226,7 +261,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-67fca87a943a-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.259" />
+        <option value="bundled-python-sdk-7a29c1521ef0-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.11799.298" />
       </set>
     </attachedChunks>
   </component>
