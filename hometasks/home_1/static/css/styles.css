@@ -1,0 +1,37 @@
+H4 {
+    text-align: right;
+    color: red;
+}
+H2 {
+    text-align: center;
+    color: green;
+}
+
+.menu {
+    margin: auto;
+    width: 20%;
+}
+.menu-td {
+    border: 1px solid grey;
+    background-color: #A5D6A7;
+
+}
+
+.news {
+    width: 60%;
+    margin: auto;
+}
+
+.news-td {
+    width: 40%;
+    border: 1px solid ;
+    background-color: #6B8E23;
+    text-align: center;
+}
+.news-td-title {
+    font-style: italic;
+}
+body {
+    width: 60%;
+    margin: auto;
+}
