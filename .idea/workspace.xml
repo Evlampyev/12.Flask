@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_1/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_1/task_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_1/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_1/templates/name.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/static/image/1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/task_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/templates/task_1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/templates/task_1/name.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/templates/task_2/form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/templates/task_2/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +24,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -56,34 +38,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.app_01.executor": "Run",
-    "Python.app_02.executor": "Run",
-    "Python.app_03.executor": "Run",
-    "Python.app_04.executor": "Run",
-    "Python.app_05.executor": "Run",
-    "Python.app_06.executor": "Run",
-    "Python.app_07.executor": "Run",
-    "Python.app_08.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.task_1.executor": "Run",
-    "Python.task_2.executor": "Run",
-    "Python.task_3.executor": "Run",
-    "Python.task_5.executor": "Run",
-    "Python.task_6.executor": "Run",
-    "Python.task_7.executor": "Run",
-    "Python.task_7_9.executor": "Run",
-    "Python.wsgi.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Aevlampev/PycharmProjects/12.Flask/seminars/sem_2/static/css",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.app_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.task_7_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.wsgi.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aevlampev/PycharmProjects/12.Flask/seminars/sem_2/static/css&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Aevlampev\PycharmProjects\12.Flask\seminars\sem_2\static\css" />
@@ -100,7 +81,7 @@
       <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\pr_1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.task_7_9">
     <configuration name="app_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
@@ -203,29 +184,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_1/task_1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
-      <module name="12.Flask" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.11" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_1" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_1/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />

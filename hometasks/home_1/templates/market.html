@@ -4,6 +4,25 @@
 Наш магазин
 {% endblock %}
 
-{% block cintent %}
+{% block content %}
+<H1>Товары в наличии</H1>
+
+
+{% block  goods %}
+{% for file in files %}
+
+<img src="/static/image/{{ file }}">
+{% endfor %}
+<table style="width: 100%">
+    <tr>
+        {% for name in names %}
+        <td class="market-menu"><a href="{{ url_for('goods',name_of_good=name) }}"> {{ name }}</a></td>
+        {% endfor %}
+    </tr>
+</table>
+
+{% endblock %}
+<hr>
+<p>Все товары поддельные, продаём быстрее, пока нас преследуют по закону.</p>
 
 {% endblock %}
