@@ -13,12 +13,16 @@
 </head>
 <body>
 <header>
+    <a href="{{ url_for('index') }}"><img class="main-href"
+                                          src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png"></a>
+    <br>
     <H2>Хорошо учите Flask</H2>
+    <br>
     <hr>
 </header>
 
 {% block content %}
-    Главное содержимое сайта
+Главное содержимое сайта
 {% endblock %}
 <footer>
     <hr>

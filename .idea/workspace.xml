@@ -5,25 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/templates/result.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_3/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/templates/bad_age.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/templates/good_age.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_7/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_7/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_7/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_7/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_9/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_9/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_9/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_9/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task/temlates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/task_3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_2/task_6/task_6.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/task_6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_2/task_7/task_7.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_7/task_7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hometasks/home_2/task_8/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task/static/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/static/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/task/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +41,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -81,28 +89,29 @@
     "Python.task_6.executor": "Run",
     "Python.task_7.executor": "Run",
     "Python.task_7_9.executor": "Run",
+    "Python.task_8.executor": "Run",
     "Python.wsgi.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/GeekBrains/II_quarter/12.Flask/seminars/sem_2",
+    "last_opened_file_path": "C:/GeekBrains/II_quarter/12.Flask/seminars/sem_2/task/static",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2" />
-      <recent name="C:\Users\Aevlampev\PycharmProjects\12.Flask\seminars\sem_2\static\css" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja\static" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\static" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja_parants" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2\task\static" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2\task\templates" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\hometasks\home_2\task_9\templates" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\hometasks\home_2\task_8\templates" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\hometasks\home_2\task_7\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\II_quarter\12.Flask" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2\templates\task_1" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_1" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\pr_1" />
     </key>
   </component>
   <component name="RunManager">

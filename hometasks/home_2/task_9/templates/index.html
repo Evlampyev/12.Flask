@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Главная страница
+{% endblock %}
+
+{% block content %}
+<form action="/verification" method="post" >
+    <input type="text" value="Имя" name="user_name">
+    <input type="value" value="Возраст" name="age">
+    <input type="submit" value="Отправить">
+</form>
+{% endblock %}

@@ -1,0 +1,17 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Главная страница
+{% endblock %}
+
+{% block content %}
+
+{% if num%}
+    <p>{{num}} в квадрате будет {{res}}</p>
+{% endif %}
+
+<form method="post">
+    <input type="text" name="number">
+    <input type="submit" value="Отправить">
+</form>
+{% endblock %}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>
+
+        {% block title %}
+        базовый шаблон
+        {% endblock %}
+
+    </title>
+</head>
+<body>
+<header>
+    <a href="{{ url_for('index') }}"><img class="main-href"
+                                          src="https://www.kindpng.com/picc/m/188-1882416_flask-python-logo-hd-png-download.png"></a>
+    <br>
+    <H2>Хорошо учите Flask</H2>
+    <br>
+    <hr>
+</header>
+
+{% block content %}
+Главное содержимое сайта
+{% endblock %}
+<footer>
+    <hr>
+    <H5>Все права запрещены</H5>
+</footer>
+</body>
+</html>
