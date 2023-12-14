@@ -4,7 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="" />
+    <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/temlates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/static/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/task_3.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,33 +54,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.app_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wsgi.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aevlampev/PycharmProjects/12.Flask/seminars/sem_2/static/css&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.app_01.executor": "Run",
+    "Python.app_02.executor": "Run",
+    "Python.app_03.executor": "Run",
+    "Python.app_04.executor": "Run",
+    "Python.app_05.executor": "Run",
+    "Python.app_06.executor": "Run",
+    "Python.app_07.executor": "Run",
+    "Python.app_08.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_7_9.executor": "Run",
+    "Python.wsgi.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Aevlampev/PycharmProjects/12.Flask/seminars/sem_2/static/css",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Aevlampev\PycharmProjects\12.Flask\seminars\sem_2\static\css" />
@@ -81,7 +98,7 @@
       <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\pr_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_7_9">
+  <component name="RunManager">
     <configuration name="app_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
@@ -242,6 +259,17 @@
       <updated>1702353313291</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />

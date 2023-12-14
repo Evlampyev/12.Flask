@@ -21,8 +21,9 @@ def form_get():
 def form_post():
     image = request.files.get('file')
     file_name = secure_filename(image.filename)
+    context = image.filename
 
-    return render_template()
+    return render_template('form.html', file_name=context)
 
 
 if __name__ == '__main__':
