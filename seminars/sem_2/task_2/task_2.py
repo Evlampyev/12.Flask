@@ -1,6 +1,5 @@
-# Создать страницу, на которой будет изображение и ссылка
-# на другую страницу, на которой будет отображаться форма
-# для загрузки изображений.
+# Создать страницу, на которой будет изображение и ссылка на другую страницу,
+# на которой будет отображаться форма  для загрузки изображений.
 
 from flask import Flask, render_template, url_for, request
 from werkzeug.utils import secure_filename
@@ -10,7 +9,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def index():
-    return render_template('task_2/index.html')
+    return render_template('index.html')
 
 
 @app.get('/form/')

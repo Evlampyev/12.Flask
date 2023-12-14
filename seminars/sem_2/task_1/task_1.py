@@ -13,13 +13,13 @@ def index():
     data = {
         'name': 'Данил'
     }
-    return render_template('task_1/index.html', **data)
+    return render_template('index.html', **data)
 
 
 @app.route('/greet/<name>')
 def greet(name: str):
     print(url_for('greet', name='Danil'))
-    return render_template('task_1/name.html', context=name)
+    return render_template('name.html', context=name)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,14 @@
+{% extends 'index.html' %}
+
+{% block title %}
+Форма загрузки файла
+{% endblock %}
+
+{% block content %}
+<div>
+    <form action="/form" enctype="multipart/form-data">
+        <input type="file" name="file">
+        <input type="submit" value="Сохранить">
+    </form>
+</div>
+{% endblock %}

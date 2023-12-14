@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css\style.css') }}">
+    <title>
+
+        {% block title %}
+        базовый шаблон
+        {% endblock %}
+
+    </title>
+</head>
+<body>
+
+{% block content %}
+
+{% enblock %}
+
+</body>
+<footer>
+    <hr>
+    <H5>Все права запрещены</H5>>
+</footer>
+</html>
