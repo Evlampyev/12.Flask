@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Калькулятор
+{% endblock %}
+
+{% block content %}
+<form action="/result" method="post">
+    <input type="text" value="Первое число" name="first">
+    <input type="text" value="Второе число" name="second">
+    <input type="text" value="Операция" name="operation">
+    <input type="submit" value="Вычислить">
+</form>
+{% endblock %}

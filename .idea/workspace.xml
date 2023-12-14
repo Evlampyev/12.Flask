@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/static/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task/temlates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/static/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hometasks/home_2/task_6/task_6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/task_4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_4/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/static/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/task_5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_2/task_5/templates/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_3/ReadMe.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/static/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/static/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/task_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_2/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task/temlates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task/templates/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_2/task_3/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -58,6 +62,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.12.Flask.executor": "Run",
     "Python.app_01.executor": "Run",
     "Python.app_02.executor": "Run",
     "Python.app_03.executor": "Run",
@@ -67,9 +72,11 @@
     "Python.app_07.executor": "Run",
     "Python.app_08.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.sem_2.executor": "Run",
     "Python.task_1.executor": "Run",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
     "Python.task_5.executor": "Run",
     "Python.task_6.executor": "Run",
     "Python.task_7.executor": "Run",
@@ -78,17 +85,17 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Aevlampev/PycharmProjects/12.Flask/seminars/sem_2/static/css",
+    "last_opened_file_path": "C:/GeekBrains/II_quarter/12.Flask/seminars/sem_2",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2" />
       <recent name="C:\Users\Aevlampev\PycharmProjects\12.Flask\seminars\sem_2\static\css" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja\static" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\static" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja_parants" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2\templates\task_1" />
@@ -187,6 +194,29 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sem_2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_2" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
@@ -209,7 +239,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_7_9" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -218,12 +248,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.11" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hometasks/home_1" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_2/task_4" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aevlampev\PycharmProjects\12.Flask\hometasks\home_1\task_7_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_2/task_4/task_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -232,13 +261,22 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.sem_2" />
+      <item itemvalue="Python.task_4" />
+      <item itemvalue="Python.app_06" />
+      <item itemvalue="Python.app_07" />
+      <item itemvalue="Python.app_08" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.task_1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.task_4" />
         <item itemvalue="Python.task_1" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.app_08" />
         <item itemvalue="Python.app_07" />
-        <item itemvalue="Python.app_06" />
       </list>
     </recent_temporary>
   </component>

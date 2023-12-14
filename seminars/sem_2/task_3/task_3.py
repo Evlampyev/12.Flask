@@ -8,8 +8,9 @@ app = Flask(__name__)
 
 
 @app.route('/')
-def index(user: str = None):
-    return render_template('index.html', context=user)
+@app.route('/<name>/')
+def index(name: str = None):
+    return render_template('index.html', username=name)
 
 
 @app.get('/login/')
@@ -18,17 +19,15 @@ def login_get():
 
 
 @app.post('/login/')  # в маршруте мы не передаем username и password
-def login_post(username: str, password: str):
+def login_post():
     login = request.form.get('username')  # вытаскиваем их из формы
     password = request.form.get('password')
-    print(login, password)
     user_data = {
-        '123': ('bad@mail.ru', 'qwerty')
+        '123': ('b@ru', 'qwe')
     }
-    if (login, password) in user_data:
-        return render_template(url_for('index', context=username))
-
-    return render_template(url_for('index', context=None))
+    if (login, password) == user_data.values():
+        return redirect(url_for('index', name=login))
+    return redirect(url_for('index', name=None))
 
 
 if __name__ == '__main__':

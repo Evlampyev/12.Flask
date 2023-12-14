@@ -7,7 +7,7 @@
 {% block content %}
 <H4>Добро пожаловать!</H4>
 {% if username %}
-<H5>{{ username }}</H5>
+<H4>{{ username }} </H4>
 {% else %}
 <a href="{{ url_for('login_get') }}">Регистрация</a>
 {% endif %}

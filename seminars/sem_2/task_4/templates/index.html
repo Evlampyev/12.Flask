@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Главная страница
+{% endblock %}
+
+{% block content %}
+<form action="/result" method="post">
+    <input type="text"  name="user_text" size="100">
+    <input type="submit" value="Подсчитать">
+</form>
+{% endblock %}

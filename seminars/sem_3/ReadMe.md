@@ -1,0 +1,1 @@
+**В чем отличие между redirect и render_tamplete**

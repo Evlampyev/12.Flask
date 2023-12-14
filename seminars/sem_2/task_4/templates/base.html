@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <title>
+
+        {% block title %}
+        базовый шаблон
+        {% endblock %}
+
+    </title>
+</head>
+<body>
+<header>
+    <H2>Хорошо учите Flask</H2>
+    <hr>
+</header>
+
+{% block content %}
+    Главное содержимое сайта
+{% endblock %}
+<footer>
+    <hr>
+    <H5>Все права запрещены</H5>
+</footer>
+</body>
+</html>
