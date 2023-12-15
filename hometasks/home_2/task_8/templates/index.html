@@ -5,7 +5,16 @@
 {% endblock %}
 
 {% block content %}
-<form action="/flash" method="post" >
+<form action="{{ url_for('index') }}" method="post" >
+     {% with messages = get_flashed_messages(with_categories=true) %}
+        {% if messages %}
+            {% for category, message in messages %}
+                <div class="alert alert-{{ category }}">
+                    {{ message }}
+                </div>
+            {% endfor %}
+        {% endif %}
+    {% endwith %}
     <input type="text" value="Имя" name="user_name">
     <input type="submit" value="Отправить">
 </form>
