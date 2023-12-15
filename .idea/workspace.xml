@@ -5,11 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lecture/lect_3/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_3/model_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_3/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_3/task_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_3/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_3/Методичка. Фреймворки Flask и FastAPI. Дополнительные возможности Flask.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lecture/lect_3/Презентация. Фреймворки Flask и FastAPI. Дополнительные возможности Flask.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_3/task_1/model_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_3/task_1/task_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wsgi.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/home_2/task_8/task_8.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/task_8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/home_2/task_8/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hometasks/home_2/task_8/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_2/task_8/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/lect_2/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/lect_2/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +26,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -48,6 +55,7 @@
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
+    "Python.12.Flask.executor": "Run",
     "Python.app_01.executor": "Run",
     "Python.app_02.executor": "Run",
     "Python.app_03.executor": "Run",
@@ -57,40 +65,45 @@
     "Python.app_07.executor": "Run",
     "Python.app_08.executor": "Run",
     "Python.main.executor": "Run",
-    "Python.task_1.executor": "Run",
+    "Python.model_02.executor": "Run",
+    "Python.sem_2.executor": "Run",
+    "Python.task_1 (1).executor": "Run",
+    "Python.task_1.executor": "Debug",
     "Python.task_2.executor": "Run",
     "Python.task_3.executor": "Run",
+    "Python.task_4.executor": "Run",
     "Python.task_5.executor": "Run",
     "Python.task_6.executor": "Run",
     "Python.task_7.executor": "Run",
     "Python.task_7_9.executor": "Run",
     "Python.task_8.executor": "Run",
     "Python.wsgi.executor": "Run",
+    "Python.wsgy.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Aevlampev/PycharmProjects/12.Flask/seminars/sem_2/static/css",
+    "last_opened_file_path": "C:/GeekBrains/II_quarter/12.Flask/lecture/lect_3",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Aevlampev\PycharmProjects\12.Flask\seminars\sem_2\static\css" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja\static" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\static" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja_parants" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\jinja" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_3" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2\task\static" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2\task\templates" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\hometasks\home_2\task_9\templates" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\hometasks\home_2\task_8\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_3\task_1" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_3" />
+      <recent name="C:\GeekBrains\II_quarter\12.Flask" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2\templates\task_1" />
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_2" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_1" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1" />
-      <recent name="C:\GeekBrains\II_quarter\12.Flask\lecture\lect_1\pr_1" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="app_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.wsgi">
+    <configuration name="sem_2" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -99,11 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="SDK_NAME" value="Python 3.11" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja/app_06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_2" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="app_07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task_1 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -121,55 +135,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja/app_07.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="app_08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="12.Flask" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja/app_08.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="12.Flask" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_1/jinja_parants" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_1/jinja_parants/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_3/task_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -200,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_7_9" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,12 +179,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.11" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hometasks/home_1" />
-      <option name="IS_MODULE_SDK" value="false" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_3" />
+      <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aevlampev\PycharmProjects\12.Flask\hometasks\home_1\task_7_9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_3/task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,13 +192,65 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_2/task_4" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_2/task_4/task_4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wsgi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_3/wsgi.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.sem_2" />
+      <item itemvalue="Python.task_1 (1)" />
+      <item itemvalue="Python.task_2" />
+      <item itemvalue="Python.wsgi" />
+      <item itemvalue="Python.task_4" />
+      <item itemvalue="Python.task_1" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.wsgi" />
+        <item itemvalue="Python.task_2" />
+        <item itemvalue="Python.task_1 (1)" />
+        <item itemvalue="Python.task_4" />
         <item itemvalue="Python.task_1" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.app_08" />
-        <item itemvalue="Python.app_07" />
-        <item itemvalue="Python.app_06" />
       </list>
     </recent_temporary>
   </component>
