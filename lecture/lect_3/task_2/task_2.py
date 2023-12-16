@@ -1,5 +1,5 @@
 from flask import Flask
-from lecture.lect_3.model_02 import db, User, Post, Comment
+from lecture.lect_3.task_2.model_02 import db, User, Post, Comment
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///mydatabase.db'
