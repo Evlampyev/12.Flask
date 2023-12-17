@@ -1,0 +1,14 @@
+{% extends 'base.html' %}
+
+{% block title %}
+Главная страница
+{% endblock %}
+
+{% block content %}
+<H4>Список книг</H4>
+<ul>
+    {% for book in books %}
+    <li><a href="{{ book.get_absolute_url }}">{{ book }} {{book.authors}}</a></li>
+    {% endfor %}
+</ul>
+{% endblock %}

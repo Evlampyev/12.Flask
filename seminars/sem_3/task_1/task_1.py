@@ -6,11 +6,13 @@
 # Написать функцию-обработчик, которая будет выводить список всех студентов
 # с указанием их факультета.
 
-from flask import Flask
-from model_1 import db, Student, Faculty
+from flask import Flask, request, render_template
+from seminars.sem_3.task_1.model_1 import db, Student, Faculty
+from string import ascii_lowercase as alphabet
+from random import sample, randint
 
 app = Flask(__name__)
-app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite://mydatabase.db'
+app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///sem_3_database.db'
 
 db.init_app(app)
 
@@ -18,13 +20,41 @@ db.init_app(app)
 @app.route('/')
 def index():
     students = Student.query.all()
-    return
+    context = {'students': students}
+    return render_template('index.html', **context)
 
 
 @app.cli.command('init-db')
 def init_db():
     db.create_all()
     print('ОК')
+
+
+@app.cli.command('add-faculty')
+def add_faculty():
+    facult = ['Математика', "Физика", "Спортсмены"]
+    for i in range(len(facult)):
+        fact = Faculty(faculty_name=facult[i])
+        db.session.add(fact)
+    db.session.commit()
+
+
+@app.cli.command('add-stud')
+def add_student():
+    """Добавление пользователя в db"""
+    genders = [True, False]
+    for _ in range(10):
+        name = ''.join(sample(alphabet, 4)).title()
+        last_name = ''.join(sample(alphabet, 6)).title()
+        age = randint(18, 35)
+        gender = genders[age % 2]
+        group = ''.join(sample(alphabet, 15)).title()
+        id_fact = age % 3 + 1
+        student = Student(name=name, last_name=last_name, age=age, gender=gender,
+                          group=group, faculty_id=id_fact)
+        db.session.add(student)
+    db.session.commit()
+    print('student add')
 
 
 if __name__ == '__main__':
