@@ -26,21 +26,23 @@ class Students(db.Model):
         return f'Student({self.id}, {self.name}, {self.last_name})'
 
     def __str__(self):
-        return '<Student %r>' % self.name
+        return f'{self.name} {self.last_name} {self.group}'
 
 
 class Scores(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     score = db.Column(db.Integer, nullable=False)
     id_student = db.Column(db.Integer, db.ForeignKey('students.id'), nullable=False)
-    item_name = db.Column(db.Integer, db.ForeignKey('items.name'), nullable=False)
+    item_name = db.Column(db.Integer, db.ForeignKey('items.id'), nullable=False)
 
     def __str__(self):
         return f'{self.item_name} {self.id_student} {self.score}'
 
 
 class Items(db.Model):
-    name = db.Column(db.String(100), primary_key=True, nullable=False, unique=True)
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(50), nullable=False)
+    scores = db.relationship('Scores', backref='stud_item')
 
     def __str__(self):
         return self.name

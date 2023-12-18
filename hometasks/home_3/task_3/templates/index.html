@@ -5,5 +5,22 @@
 {% endblock %}
 
 {% block content %}
-Главное содержание
+<H4>Список студентов</H4>
+
+<ul>
+    {% for student, items in students.items() %}
+
+    <li>{{ student }}
+    <ul>
+        {% if items %}
+            {% for item in items %}
+                <li>{{ item.score }} {{item.stud_item}}</li>
+            {% endfor %}
+        {% else %}
+            <li>Нет оценок</li>
+        {% endif %}
+    </ul>
+    </li>
+    {% endfor %}
+</ul>
 {% endblock %}
