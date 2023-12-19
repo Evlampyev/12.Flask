@@ -5,5 +5,28 @@
 {% endblock %}
 
 {% block content %}
+<h1>Регистрация</h1>
+<form method="POST" action="{{ url_for('registration') }}">
+    {{ form.hidden_tag() }}
+    <p>
+        {{ form.username.label }}<br>
+        {{ form.username(size=32) }}
+    </p>
+    <p>
+        {{ form.email.label }}<br>
+        {{ form.email(size=32) }}
 
+    </p>
+    <p>
+        {{ form.password.label }}<br>
+        {{ form.password(size=32) }}
+    </p>
+    <p>
+        {{ form.confirm_password.label }}<br>
+        {{ form.confirm_password(size=32) }}
+    </p>
+    <p>
+        <input type="submit" value="Register">
+    </p>
+</form>
 {% endblock %}

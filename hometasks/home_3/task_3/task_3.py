@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-from hometasks.home_3.task_3.model_3 import db, Students, Scores, Items
-from flask import render_template, request, redirect, url_for, flash, Flask
-=======
 # Доработаем задача про студентов
 # Создать базу данных для хранения информации о студентах и их оценках в
 # учебном заведении.
@@ -16,7 +12,6 @@ from flask import render_template, request, redirect, url_for, flash, Flask
 from hometasks.home_3.task_3.model_3 import db, Students, Scores, Items
 from flask import render_template, request, redirect, url_for, flash, Flask
 from random import randint, choice
->>>>>>> 32a0777dac0b3f0818ecf4867a2080733e892d05
 
 app = Flask(__name__)
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///home_3_task_3_db.db'
@@ -26,9 +21,6 @@ db.init_app(app)
 
 @app.route('/')
 def index():
-<<<<<<< HEAD
-    return render_template('index.html')
-=======
     students = Students.query.all()
     context = {}
     stud = {}
@@ -39,15 +31,12 @@ def index():
         print(stud[st_id])
     context['students'] = stud
     return render_template('index.html', **context)
->>>>>>> 32a0777dac0b3f0818ecf4867a2080733e892d05
 
 
 @app.cli.command('init-db')
 def init_db():
     db.create_all()
     print('OK')
-<<<<<<< HEAD
-=======
 
 
 @app.cli.command('add-items')
@@ -68,7 +57,8 @@ def add_students():
         group = f'Another group_' + str(i % 3)
         gender = choice(['мужчина', 'женщина'])
         email = name + '@mail.ru'
-        student = Students(name=name, last_name=last_name, group=group, gender=gender, email=email)
+        student = Students(name=name, last_name=last_name, group=group, gender=gender,
+                           email=email)
         db.session.add(student)
     db.session.commit()
     print('student added')
@@ -86,4 +76,3 @@ def add_score():
         db.session.add(new_mark)
     db.session.commit()
     print("Score added")
->>>>>>> 32a0777dac0b3f0818ecf4867a2080733e892d05
