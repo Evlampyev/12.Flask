@@ -6,7 +6,7 @@
 
 {% block content %}
 <h1>Регистрация</h1>
-<form method="POST" action="{{ url_for('registration') }}">
+<form class="reg_form" method="POST" action="{{ url_for('registration') }}">
     {{ form.hidden_tag() }}
     <p>
         {{ form.username.label }}<br>
