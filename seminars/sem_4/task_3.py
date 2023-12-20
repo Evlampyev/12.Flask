@@ -1,6 +1,7 @@
 from aiohttp import ClientSession
 import asyncio
 from time import time
+
 urls = ['https://github.com/Evlampyev/12.Flask/tree/main',
         'https://ru.wikipedia.org/wiki/Заглавная_страница',
         ]
