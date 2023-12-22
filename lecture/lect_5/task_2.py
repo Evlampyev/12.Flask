@@ -29,11 +29,13 @@ async def read_root():
     return {"message": 'Hello World'}
 
 
+"""
 @app.get('/items/{item_id}/')
 async def read_item(item_id: int, q: str = None):
     #  /items/34/?q=%27werwre%27 - по такому пути
     #  будет выдано {"item_id":34,"q":"'werwre'"}
     return {'item_id': item_id, 'q': q}
+"""
 
 
 @app.post('/items/')
