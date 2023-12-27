@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lecture/lect_5/curls_02.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_5/task_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_5/task_4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_5/task_5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_5/task_6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lecture/lect_5/templates/item.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ReadMe.md" beforeDir="false" afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lecture/lect_5/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/lecture/lect_5/task_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +34,7 @@
 }</component>
   <component name="ProjectId" id="2ZQTTsAKnLVZgj9091dd7ewKDuU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -97,7 +90,7 @@
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_1" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.task_7_9">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
