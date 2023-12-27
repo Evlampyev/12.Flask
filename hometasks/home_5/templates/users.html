@@ -11,7 +11,13 @@
 {% if tasks %}
 {% for task in tasks %}
 <div>
-    <p>{{task.task_id}}. {{task.title}}. Место: {{task.locality}} Текущий статус: {{task.status}}</p>
+    <p>{{task.task_id}}. {{task.title}}. Место: {{task.locality}} Текущий статус:
+        {% if task.status %}
+            выполнена
+        {% else %}
+            не выполнена
+        {% endif %}
+    </p>
 </div>
 {% endfor %}
 {% else %}

@@ -28,7 +28,7 @@ def get__id_task(task_id: int):
 def add_task(request: Request,
              title: str = Form(...),
              locality: str = Form(...),
-             status: str = Form(...),
+             status: bool = Form(False),
              task_id: int = Form(...),
              ):
     task = Task(
@@ -38,7 +38,8 @@ def add_task(request: Request,
         status=status,
     )
     tasks.append(task)
-    return task
+    return templates.TemplateResponse(
+        'users.html', {'request': request, 'tasks': tasks})
 
 
 @app.put('/tasks/{task_id}')
