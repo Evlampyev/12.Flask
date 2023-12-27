@@ -10,7 +10,7 @@
 # Реализуйте валидацию данных запроса и ответа.
 
 from fastapi import FastAPI, Request
-from .seminars.sem_5.models_1 import Task
+from seminars.sem_5.pack_1.models_1 import Task
 
 app = FastAPI()
 tasks: list[Task] = []

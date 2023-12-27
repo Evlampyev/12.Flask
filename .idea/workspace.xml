@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bb9e7627-923b-44a7-bf08-213b4c1ff5ed" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/seminars/sem_5/pack_1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_5/pack_2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminars/sem_5/pack_3/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/pack_4/models_5.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_4/models_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/pack_4/run_server_task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_4/run_server_task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/pack_4/task_4.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_4/task_4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/pack_4/templates/users.html" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_4/templates/users.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_1/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_5/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_1/models_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_1/models_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_1/task_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_1/task_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_1/uvicorn_server.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_1/uvicorn_server.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_2/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_5/run_server_task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_2/models_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_2/models_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_2/run_task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_2/run_task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_2/task_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_2/task_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_3/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/hometasks/home_5/task_8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_3/models_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_3/models_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_3/run_server_task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_3/run_server_task_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminars/sem_5/task_3/task_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminars/sem_5/pack_3/task_3.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,46 +53,50 @@
 }</component>
   <component name="ProjectId" id="2ZQTTsAKnLVZgj9091dd7ewKDuU" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Python.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.app_08.executor&quot;: &quot;Run&quot;,
-    &quot;Python.forms_4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_7_9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.task_8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.wsgi (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.wsgi.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Shell Script.Unnamed.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Aevlampev/PycharmProjects/12.Flask/hometasks/home_3/task_4/templates&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Python.1.executor": "Run",
+    "Python.app_01.executor": "Run",
+    "Python.app_02.executor": "Run",
+    "Python.app_03.executor": "Run",
+    "Python.app_04.executor": "Run",
+    "Python.app_05.executor": "Run",
+    "Python.app_06.executor": "Run",
+    "Python.app_07.executor": "Run",
+    "Python.app_08.executor": "Run",
+    "Python.forms_4.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.run_server_task_3.executor": "Run",
+    "Python.run_server_task_4.executor": "Run",
+    "Python.run_server_task_8.executor": "Run",
+    "Python.run_task_2.executor": "Run",
+    "Python.task_1.executor": "Run",
+    "Python.task_2.executor": "Run",
+    "Python.task_3.executor": "Run",
+    "Python.task_5.executor": "Run",
+    "Python.task_6.executor": "Run",
+    "Python.task_7.executor": "Run",
+    "Python.task_7_9.executor": "Run",
+    "Python.task_8.executor": "Run",
+    "Python.uvicorn_server.executor": "Run",
+    "Python.wsgi (1).executor": "Run",
+    "Python.wsgi.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Shell Script.Unnamed.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/Aevlampev/PycharmProjects/12.Flask/hometasks/home_3/task_4/templates",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Aevlampev\PycharmProjects\12.Flask\hometasks\home_3\task_4\templates" />
@@ -90,8 +113,8 @@
       <recent name="C:\GeekBrains\II_quarter\12.Flask\seminars\sem_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.task_7_9">
-    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.run_server_task_8">
+    <configuration name="run_server_task_3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hometasks/home_3/task_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_5/pack_3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hometasks/home_3/task_4/1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_5/pack_3/run_server_task_3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="forms_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="run_server_task_4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,11 +145,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_3/task_4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_5/pack_4" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lecture/lect_3/task_4/forms_4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_5/pack_4/run_server_task_4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,7 +158,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="run_server_task_8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -144,11 +167,33 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/hometasks/home_5" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_1/task_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hometasks/home_5/run_server_task_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_task_2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="12.Flask" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_5/pack_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_5/pack_2/run_task_2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +225,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="wsgi (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="uvicorn_server" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="12.Flask" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,33 +234,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/seminars/sem_5/pack_1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/wsgi.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="wsgi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="12.Flask" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lecture/lect_3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Aevlampev\PycharmProjects\12.Flask\wsgi.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/seminars/sem_5/pack_1/uvicorn_server.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,20 +264,20 @@
     </configuration>
     <list>
       <item itemvalue="Python.task_7_9" />
-      <item itemvalue="Python.1" />
-      <item itemvalue="Python.forms_4" />
-      <item itemvalue="Python.task_1" />
-      <item itemvalue="Python.wsgi" />
-      <item itemvalue="Python.wsgi (1)" />
+      <item itemvalue="Python.run_server_task_3" />
+      <item itemvalue="Python.run_server_task_4" />
+      <item itemvalue="Python.run_server_task_8" />
+      <item itemvalue="Python.run_task_2" />
+      <item itemvalue="Python.uvicorn_server" />
       <item itemvalue="Shell Script.Unnamed" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1" />
-        <item itemvalue="Python.wsgi (1)" />
-        <item itemvalue="Python.forms_4" />
-        <item itemvalue="Python.wsgi" />
-        <item itemvalue="Python.task_1" />
+        <item itemvalue="Python.run_server_task_8" />
+        <item itemvalue="Python.run_server_task_4" />
+        <item itemvalue="Python.run_server_task_3" />
+        <item itemvalue="Python.run_task_2" />
+        <item itemvalue="Python.uvicorn_server" />
       </list>
     </recent_temporary>
   </component>

@@ -8,7 +8,7 @@
 # Реализуйте валидацию данных запроса и ответа.
 
 from fastapi import FastAPI
-from seminars.sem_5.task_3.models_3 import User
+from seminars.sem_5.pack_3.models_3 import User
 
 app = FastAPI()
 
