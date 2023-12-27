@@ -1,4 +1,4 @@
-from fastapi import FastAPI, Request
+from fastapi import FastAPI, Request, Form
 from hometasks.home_5.models import Task
 from fastapi.templating import Jinja2Templates
 from fastapi.responses import HTMLResponse
@@ -8,7 +8,8 @@ templates = Jinja2Templates(directory='templates')
 tasks: list[Task] = []
 
 
-@app.get('/', response_class=HTMLResponse)
+@app.get('/')
+@app.get('/tasks/', response_class=HTMLResponse)
 def index(request: Request):
     return templates.TemplateResponse(
         'users.html', {'request': request, 'tasks': tasks})
@@ -23,13 +24,19 @@ def get__id_task(task_id: int):
         return f'Нет задачи с таким id'
 
 
-@app.get('/tasks/')
-def read_root():
-    return tasks
-
-
 @app.post('/tasks/')
-def add_task(task: Task):
+def add_task(request: Request,
+             title: str = Form(...),
+             locality: str = Form(...),
+             status: str = Form(...),
+             task_id: int = Form(...),
+             ):
+    task = Task(
+        task_id=task_id,
+        title=title,
+        locality=locality,
+        status=status,
+    )
     tasks.append(task)
     return task
 
