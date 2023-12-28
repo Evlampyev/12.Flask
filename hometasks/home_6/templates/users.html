@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Итоговое задание</title>
+</head>
+<body>
+{% block content %}
+<h2>Список задач</h2>
+{% if tasks %}
+{% for task in tasks %}
+<div>
+    <p>{{task.task_id}}. {{task.title}}. Место: {{task.locality}} Текущий статус:
+        {% if task.status %}
+            выполнена
+        {% else %}
+            не выполнена
+        {% endif %}
+    </p>
+</div>
+{% endfor %}
+{% else %}
+<div>
+    <p>У вас нет задач</p>
+</div>
+{% endif %}
+
+
+<form method=post action="/tasks/">
+<!--    <input type="number" name="task_id" placeholder="Id">-->
+    <input type="text" name="title" placeholder="Задача">
+    <input type="text" name="locality" placeholder="Место">
+    <input type="checkbox" name="status" id="status_check" placeholder="Status">
+    <label for="status_check">Выполнена</label>
+    <button type="submit">Создать новую задачу</button>
+</form>
+
+{% endblock %}
+</body>
+</html>

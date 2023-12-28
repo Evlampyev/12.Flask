@@ -19,10 +19,10 @@ from fastapi import FastAPI
 from sqlalchemy import create_engine, select, insert, update, delete
 import databases
 
-from .pydantic_models import UserOnRegister, User
-from .sqlalchemy_models import Base, User as SUser
+from seminars.sem_6.pydantic_models import UserOnRegister, User
+from seminars.sem_6.sqlalchemy_models import Base, User as SUser
 
-DATABASE_URL = 'sqlite:///instance/task_1.sqlite'
+DATABASE_URL = 'sqlite:///task_1.db'
 
 database = databases.Database(DATABASE_URL)
 engine = create_engine(DATABASE_URL, connect_args={'check_same_thread': False})
